@@ -49,8 +49,8 @@ export function Intro() {
         </Link>
       </div>
       <h1 className="mt-14 font-display text-4xl/tight font-light text-white">
-        Open-source Git client{' '}
-        <span className="text-sky-300">for macOS minimalists</span>
+        Tre Galloway{' '}
+        <span className="text-sky-300">Azure Cloud Engineer</span>
       </h1>
       <p className="mt-4 text-sm/6 text-gray-300">
         Commit is a lightweight Git client you can open from anywhere any time
